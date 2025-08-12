@@ -1,4 +1,7 @@
 package harvesters.core;
+
+
+
 public class ControllerImpl implements Controller {
 
 
@@ -25,4 +28,5 @@ public class ControllerImpl implements Controller {
         return null;
     }
 }
+
 
