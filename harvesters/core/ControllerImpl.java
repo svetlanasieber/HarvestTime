@@ -1,7 +1,7 @@
 package harvesters.core;
 public class ControllerImpl implements Controller {
 
-    //TODO - Implement all methods
+
 
     @Override
     public String addField(String fieldType, String fieldName, int crops) {
@@ -25,3 +25,4 @@ public class ControllerImpl implements Controller {
         return null;
     }
 }
+
